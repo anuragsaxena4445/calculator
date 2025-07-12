@@ -1,0 +1,50 @@
+
+*{ 
+    /* background-color: black; */
+}
+.text-center{
+    text-align: center;
+    color: wheat;
+}
+.bg-red{
+    background: rgb(255, 255, 255);
+}
+/* .mx-auto{
+    margin:auto;
+}
+.m-w-20{
+    max-width: 40vw;
+    height:40vw ;
+} */ 
+.flex{
+    display: flex;
+}
+.flex-col{
+flex-direction: column;
+background-color: rgb(212, 212, 212);
+width: 50%;
+margin: auto;
+border-radius: 100px;
+} 
+.item-center{
+    align-items: center;
+} 
+
+.row{ 
+    margin: 8px 0;
+}
+.row input{
+    margin: 3px;
+    /* padding: 15px 10px;
+     */
+     font-size: 30px;
+    
+     padding: 20px 0px;
+    max-width: 50vh;
+    max-height:50%;
+    border: 4px solid rgb(59, 59, 59);
+    border-radius: 7px ;
+    background-color: azure;
+  
+
+}
